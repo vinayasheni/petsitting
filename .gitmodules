@@ -1,0 +1,3 @@
+[submodule "petsitting"]
+	path = petsitting
+	url = ./petsitting
